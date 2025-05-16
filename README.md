@@ -1,0 +1,1 @@
+In this repository I have developed a Matlab code to optimize a pixelated metasurface by the help of a genetic algorithm and a CST-Matlab interface code. Please give any feedback which can help me improve my code. Additionally, I am open to any research opportunity in the realm of nanophotonics and metastructures.
